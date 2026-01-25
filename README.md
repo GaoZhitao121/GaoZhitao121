@@ -1,21 +1,21 @@
 ## Hi there 👋
 🎓 About Me
 
-🏫 Xi’an Jiaotong University (XJTU)
+- 🏫 Xi’an Jiaotong University (XJTU)
 
-🎓 M.S. student (Year 1) in Computer Science
+  - 🎓 M.S. student (Year 1) in Computer Science
 
-🎓 B.S. in Computer Science
+  - 🎓 B.S. in Computer Science
 
-🔍 Research Interests: NLP / MLLM
+- 🔍 Research Interests: NLP / MLLM
 
-💡 Passionate about KGQA, multimodal understanding, and LLM Reasoning.
+  - 💡 Passionate about KGQA, multimodal understanding, and LLM Reasoning.
 
-📫 Contact
+- 📫 Contact
 
-GitHub: @GaoZhitao121
+  - GitHub: @GaoZhitao121
 
-Email: gaozhitao@stu.xjtu.edu.cn
+  - Email: gaozhitao@stu.xjtu.edu.cn
 <!--
 **GaoZhitao121/GaoZhitao121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
