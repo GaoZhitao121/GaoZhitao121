@@ -1,6 +1,21 @@
 ## Hi there 👋
-I am a first-year Master's student in Computer Science at Xi’an Jiaotong University (XJTU). I earned my Bachelor’s degree in Computer Science from XJTU as well.
-My research interests focus on Natural Language Processing (NLP) and Multimodal Large Language Models (MLLMs).
+🎓 About Me
+
+🏫 Xi’an Jiaotong University (XJTU)
+
+🎓 M.S. student (Year 1) in Computer Science
+
+🎓 B.S. in Computer Science
+
+🔍 Research Interests: NLP / MLLM
+
+💡 Passionate about KGQA, multimodal understanding, and LLM Reasoning.
+
+📫 Contact
+
+GitHub: @GaoZhitao121
+
+Email: gaozhitao@stu.xjtu.edu.cn
 <!--
 **GaoZhitao121/GaoZhitao121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
