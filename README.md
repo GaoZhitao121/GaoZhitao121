@@ -3,13 +3,11 @@
 
 - 🏫 Xi’an Jiaotong University (XJTU)
 
-  - 🎓 M.S. student (Year 1) in Computer Science
+  - 🎓 M.S. student in Computer Science (2025 ~ 2028)
 
-  - 🎓 B.S. in Computer Science
+  - 🎓 B.S. in Computer Science (2021 ~ 2025)
 
-- 🔍 Research Interests: NLP / MLLM
-
-  - 💡 Passionate about KGQA, multimodal understanding, and LLM Reasoning.
+- 🔍 Research Interests: LLM Reasoning / Agent / LLM4KGQA
 
 - 📫 Contact
 
